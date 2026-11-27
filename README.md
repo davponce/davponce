@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Software Developer student in Mexico. <br>I am passionate about cybersecurity and currently<br>looking for an internship to learn more and <br>challenge my skills. 
 
 
